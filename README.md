@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Karen's github stats](https://github-readme-stats.vercel.app/api?username=karenchuu&theme=dark&show_icons=true)](https://github.com/karenchuu/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenchuu&layout=compact&theme=gruvbox)](https://github.com/karenchuu/github-readme-stats)
 <!--
 **karenchuu/karenchuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
