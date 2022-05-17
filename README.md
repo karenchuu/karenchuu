@@ -1,6 +1,4 @@
 ### Hi there I'm Karen👋
-
-✨✨✨✨✨
 [![Karen's github stats](https://github-readme-stats.vercel.app/api?username=karenchuu&theme=vue&show_icons=true&hide=stars)](https://github.com/karenchuu/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenchuu&layout=compact&theme=ayu-mirage)](https://github.com/karenchuu/github-readme-stats)
 
