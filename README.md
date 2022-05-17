@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I'm Karen👋
 [![Karen's github stats](https://github-readme-stats.vercel.app/api?username=karenchuu&theme=dark&show_icons=true&hide=stars,prs,contribs)](https://github.com/karenchuu/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenchuu&layout=compact&theme=ayu-mirage&hide=javascript,html)](https://github.com/karenchuu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenchuu&layout=compact&theme=ayu-mirage)](https://github.com/karenchuu/github-readme-stats)
 <!--
 **karenchuu/karenchuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
