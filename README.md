@@ -22,10 +22,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
 </p>
 
----
-
-### 🔥 &nbsp; My Stats
-[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenchuu&hide=stars&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/karenchuu/github-readme-stats)
 
 <!-- Markdown -->
 <!--
