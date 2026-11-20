@@ -1,5 +1,5 @@
 
-### Hi there, I'm Karen 👋 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Hi there, I'm Karen 👋
 
 📫 How to reach me: kw83107@gmail.com
 
